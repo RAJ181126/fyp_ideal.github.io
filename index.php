@@ -128,7 +128,7 @@
 			$ReplyTo=$mail;
 			$ToEmail="rajpokhrel18110@gmail.com";
 			$sub="Request for booking";
-			$msg='Number of guest:-'.$number. 'Date of arrival:-' .$arrival.  'Leaving:-' .$leaving;
+			$msg='Number of guest:- '.$number. 'Date of arrival:- ' .$arrival.  'Leaving:- ' .$leaving;
 			$header = "From: 18110sharma@gmail.com";
 
 	
